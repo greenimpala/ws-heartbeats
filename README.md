@@ -4,6 +4,10 @@ Ping / pong heartbeats for [node ws](https://github.com/websockets/ws).
 
 ## Usage
 
+```bash
+npm install ws-heartbeats
+```
+
 ```js
 require('ws-heartbeats')(websocketClient, [Optional] options)
 ```
