@@ -1,0 +1,21 @@
+{
+  "name": "ws-heartbeats",
+  "version": "1.0.0",
+  "description": "ping / pong heartbeats for node ws",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "lodash": "^3.6.0",
+    "mocha": "^2.2.1",
+    "sinon": "^1.14.1"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
