@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "ping / pong heartbeats for node ws",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenimpala/ws-heartbeats.git"
+  },
+  "homepage": "https://github.com/greenimpala/ws-heartbeats",
   "directories": {
     "test": "test"
   },
